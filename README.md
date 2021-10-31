@@ -12,6 +12,11 @@ The grid isn't pixel perfect, but it serves the purpose.
 * Fine control over grid offset
 * Store last used options in browser storage so they are persistent over all maps
 
+## Hot to install
+
+Just load following file into user-script runner of your choice (e.g. tampermonkey):
+https://raw.githubusercontent.com/meelkor/inkarnate-grid/master/index.js
+
 ## Screenshot
 
 <img src="https://user-images.githubusercontent.com/9664601/139590950-16fe6887-3354-4ef9-9b60-eb9bc2108d14.png" width=400>
